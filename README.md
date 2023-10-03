@@ -1,4 +1,5 @@
 # COVID-19 Simulation
+![image](https://github.com/ashan-medigodella/covid-19-simulation-netlogo/assets/57296166/9e99c5df-6e17-47be-b99c-7800af6448ea)
 
 ## Overview
 ### This NetLogo model simulates the spread of COVID-19 through a population. It allows exploring how various interventions like social distancing, mask wearing, and vaccination impact the spread of the disease.
