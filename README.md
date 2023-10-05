@@ -55,6 +55,7 @@ Some ways the model could be extended:
 
 <a href="https://drive.google.com/file/d/158FZq1dRz44qPw4sUxkN5h-mMAwUIXMl/view?usp=sharing" target="_blank">
 ## Watch the full Test Video!
+</a>
   
 Credits
 This model is inspired by the NetLogo Virus model. The documentation was written by Ashan Medigodella
