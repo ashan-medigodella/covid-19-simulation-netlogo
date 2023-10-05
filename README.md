@@ -9,18 +9,18 @@ This NetLogo model simulates the spread of COVID-19 through a population. It all
 #### Interface Elements
 The interface has the following elements:
 
-* Setup button - Sets up the model by clearing the world and creating the initial population of turtles
-* Go button - Runs the simulation one tick at a time
-* Init-pop slider - Sets the initial number of people (turtles)
-* Init-infected slider - Sets the initial number of infected people
-* Mask-percent slider - Sets the percentage of turtles wearing masks
-* Social-distancing slider - Sets the amount of social distancing; higher values make turtles stay further apart
-* Vaccination-percent slider - Sets the percentage of turtles vaccinated at start
-* Infection-chance slider - Chance of spreading infection to nearby turtles
-* Recovery-rate slider - Chance infected turtles recover each tick
-* Mortality-rate slider - Chance infected turtles die each tick
-* Infected, Recovered, Susceptible plot - Tracks counts of each turtle type over time
-* People alive plot - Total number of turtles alive over time
+* `Setup` button - Sets up the model by clearing the world and creating the initial population of turtles
+* `Go` button - Runs the simulation one tick at a time
+* `Init-pop` slider - Sets the initial number of people (turtles)
+* `Init-infected` slider - Sets the initial number of infected people
+* `Mask-percent` slider - Sets the percentage of turtles wearing masks
+* `Social-distancing` slider - Sets the amount of social distancing; higher values make turtles stay further apart
+* `Vaccination-percent` slider - Sets the percentage of turtles vaccinated at start
+* `Infection-chance` slider - Chance of spreading infection to nearby turtles
+* `Recovery-rate` slider - Chance infected turtles recover each tick
+* `Mortality-rate` slider - Chance infected turtles die each tick
+* `Infected`, `Recovered`, `Susceptible` plot - Tracks counts of each turtle type over time
+* `People alive` plot - Total number of turtles alive over time
 
 #### How it Works
 At setup, the given number of turtles are created and random ones are set as infected.
@@ -53,8 +53,8 @@ Some ways the model could be extended:
 * Allow vaccination to increase over time to model a rollout
 * Add immunity that wears off over time
 
-## Watch the full Test Video!
 <a href="https://drive.google.com/file/d/158FZq1dRz44qPw4sUxkN5h-mMAwUIXMl/view?usp=sharing" target="_blank">
+## Watch the full Test Video!
   
 Credits
 This model is inspired by the NetLogo Virus model. The documentation was written by Ashan Medigodella
